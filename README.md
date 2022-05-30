@@ -11,11 +11,11 @@
 
 
 ```
-npx create-react-app react-task-tracker
+npx create-react-app task-app
 ```
 
 ```
-cd react-task-tracker
+cd task-app
 ```
 
 ```

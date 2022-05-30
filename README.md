@@ -1,7 +1,7 @@
 
 ### 'npx create...'command will create necessary files along with Node_modules folder. 
 
-### update src files which is created in your desktop with src folder available in github repository
+### update "src folder" and "package.json file" which is created in your desktop with github repository folders.
 
 ### Installing dependencies via 'npm install' will create Package-lock.json file.
 

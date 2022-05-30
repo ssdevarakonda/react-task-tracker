@@ -5,6 +5,7 @@
 
 ### Installing dependencies via 'npm install' will create Package-lock.json file.
 
+
 ### DELETE setupTests.js, logo.svg, App.test.js, App.css files which were created. (These files are unnecessary)
 
 
@@ -22,10 +23,24 @@ npm install
 ```
 
 ```
+npm install
+```
+
+
+```
 npm start
 ```
 
 
+### install react-icons as well  
 
+```
+npm i react-icons
 
+```
 
+### Press "Ctrl+C" to come out of the react development after installing react-icons and start again.
+
+```
+npm start
+```

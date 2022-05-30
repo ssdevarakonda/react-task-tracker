@@ -1,5 +1,4 @@
 
-
 ### 'npx create...'code will create necessary files along with Node_modules. 
 
 ### update src files which is created in your desktop with src folder available in github repository
@@ -10,10 +9,23 @@
 
 
 
-
+```
 npx create-react-app react-task-tracker
+```
+
+```
 cd react-task-tracker
+```
+
+```
 npm install
+```
+
+```
 npm start
+```
+
+
+
 
 

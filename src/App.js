@@ -11,11 +11,11 @@ const App = () => {
   const [tasks, setTasks] = useState([])
   // const [task, setTasks] = useState({ hits: [] }); 
   
-  useEffect(async () => {
+  useEffect(() => {
       fetch('https://jsonplaceholder.typicode.com/todos/1')
         .then(response => response.json())
-        .then(json => console.log(json))
-    
+        .then(setTasks => console.log(setTasks))
+     
   },[])
   
   // Add Task
